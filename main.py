@@ -91,4 +91,4 @@ async def on_message(message):
             await message.channel.send("You have no credits")
 
 
-client.run("ODU1ODIyNDE1MDk4OTM3NDE0.YM4EvA.l_ikph-dfOX-OYdkymfN3tUec38")
+client.run("TOKEN")
